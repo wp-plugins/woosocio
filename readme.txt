@@ -19,9 +19,9 @@ matically. It will do the magic when you publish new product through woocommerce
 
 To work properly, woocommerce should be installed before installing woosocio.
 
-e.g.
+Here are few steps to follow:
 
-1. Upload `woosocio`folder to the `/wp-content/plugins/` directory
+1. Upload `woosocio` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Select settings/WooSocio Options page from wordpress menu and login.
 4. That's it. You're ready to go!
