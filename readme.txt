@@ -40,6 +40,10 @@ If you uncheck the box 'Post to facebook?' in publish area, it will not be share
 
 1. screenshot-1.jpg
 
+2. screenshot-2.jpg
+
+3. screenshot-3.jpg
+
 == Changelog ==
 
 = 0.0.1 =
