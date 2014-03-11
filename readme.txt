@@ -54,14 +54,14 @@ Well, yes! you have to add other users in your facebook application as developer
 
 == Changelog ==
 
-= 0.0.1 =
-
-* First release.
-
-= 0.0.2 =
+= 0.0.2 - 12/03/2014 =
 
 * Pruduct title will be shared along with custom message.
 * Connected icon introduced in publish area.
+
+= 0.0.1 =
+
+* First release.
 
 == Upgrade Notice ==
 
