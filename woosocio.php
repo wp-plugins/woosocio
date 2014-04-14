@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WooSocio
  * Plugin URI: http://shafiamall.co.uk/woosocio/
- * Description: This plugin will upload/post your Woo products to facebook automatically, when published.
+ * Description: This plugin will upload/post your Woo products to facebook automatically, when published. Also adds like/share buttons in Woo products.
  * Author: Qamar Sheeraz
  * Author URI: http://shafiamall.co.uk/woosocio/
  * Version: 0.0.3
