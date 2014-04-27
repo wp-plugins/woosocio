@@ -1,7 +1,7 @@
 === WooSocio ===
 Contributors: qsheeraz
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YNF4H9FJY4HU4
-Tags: woo, social, facebook, posts, products, share, auto upload, sharing, social media, social media sharing, social share, socialmedia, woocommerce, woo products, woo products sharing, auto share, woo sharing, woo social sharing, publicize woo products, like, like share button
+Tags: woo, social, facebook, posts, products, share, auto upload, sharing, social media, social media sharing, social share, socialmedia, woocommerce, woo products, woo products sharing, auto share, woo sharing, woo social sharing, publicize woo products, like, like share button, facebook pages, fan page
 Requires at least: 3.0.1
 Tested up to: 3.9
 Stable tag: 0.4.1
