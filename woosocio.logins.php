@@ -21,7 +21,7 @@ if ($fb_user) {
 	$user_pages = $woosocio->facebook->api("/me/accounts");
 } else {
   	$statusUrl = $woosocio->facebook->getLoginStatusUrl();
-  	$loginUrl = $woosocio->facebook->getLoginUrl(array('scope' => 'publish_stream, manage_pages'));
+  	$loginUrl = $woosocio->facebook->getLoginUrl(array('scope' => 'publish_stream, manage_pages, publish_actions'));
 }
 
 ?>
