@@ -134,17 +134,6 @@ if ($fb_user) {
     <!-- Right Area Widgets -->  
 
     <div class="woosocio-about-us">
-    	<!-- WooSocio Pro Features -->
-    	<!--<div class="box">
-          <ul>
-            <li type="circle">WooSocio Pro</li>
-            <li>Post as page owner rather personal user.
-                No more highlighted posts</li>
-            <li>Bulk Edit</li>
-            <li>Bulk Delete</li>
-            <li>Bulk Post to facebook</li>                            
-          </ul>        
-        </div>-->
     	<!-- Like Box WooSocio on Facebook -->
         <div class="box">
         	<div class="fb-like-box" 
@@ -166,6 +155,17 @@ if ($fb_user) {
               fjs.parentNode.insertBefore(js, fjs);
             }(document, 'script', 'facebook-jssdk'));
             </script>
+
+    	<!-- Follow Google+ box -->
+    	<div class="box">
+        	<div class="g-page" 
+            	 data-href="//plus.google.com/u/0/110022618852978034636" 
+                 data-layout="landscape"
+                 data-width="290" 
+                 data-rel="publisher">
+            </div>
+        </div>
+		<script src="https://apis.google.com/js/platform.js" async defer></script>
 
             <!-- Hire Me PPH Widget --> 
             <!--<div id="pph-hireme"></div>
@@ -233,6 +233,7 @@ jQuery(document).ready(function($){
 	
 	$("#app-details").click(function(){
 		$("#app-info").toggle(1000);
+
 	});
 });
 </script>
