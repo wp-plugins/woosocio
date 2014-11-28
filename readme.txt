@@ -85,7 +85,6 @@ No. You can use like/share buttons without connecting to facebook. But it is rec
 
 * Wordpress compatible up to 4.0.1
 * Woocommerce compatible up to 2.2.8
-* Page profile picture added.
 * Bug fixed: Blank page after publish.
 * New language added - Italian
 
