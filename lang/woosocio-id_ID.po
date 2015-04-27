@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooSocio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-06 01:23+0500\n"
+"PO-Revision-Date: 2014-09-06 01:41+0500\n"
+"Last-Translator: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
+"Language-Team: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html_e\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/class-woo-socio.php:145
+msgid "Name"
+msgstr "Nama"
+
+#: ../classes/class-woo-socio.php:147
+msgid "Like/ Share Button?"
+msgstr "Seperti / Share Button?"
+
+#: ../classes/class-woo-socio.php:148
+msgid "Posted to Facebook?"
+msgstr "Dikirim ke Facebook?"
+
+#: ../classes/class-woo-socio.php:149
+msgid "Custom Message"
+msgstr "Custom Pesan"
+
+#: ../classes/class-woo-socio.php:238
+msgid "WooSocio:"
+msgstr "WooSocio:"
+
+#: ../classes/class-woo-socio.php:247
+msgid "Not Connected"
+msgstr "Tidak Terhubung"
+
+#: ../classes/class-woo-socio.php:248 ../woosocio.logins.php:57
+msgid "Connect"
+msgstr "Menghubungkan"
+
+#: ../classes/class-woo-socio.php:253
+msgid "Show Like/Share buttons?"
+msgstr "Tampilkan Seperti / Share tombol?"
+
+#: ../classes/class-woo-socio.php:255
+msgid "Post to Facebook?"
+msgstr "Posting ke Facebook?"
+
+#: ../classes/class-woo-socio.php:256
+msgid "Custom Message: (No html tags)"
+msgstr "Custom Pesan: (ada tag html)"
+
+#: ../classes/class-woo-socio.php:258 ../woosocio.logins.php:89
+msgid "Save"
+msgstr "Menyimpan"
+
+#: ../classes/class-woo-socio.php:259
+msgid "Cancel"
+msgstr "Membatalkan"
+
+#: ../classes/class-woo-socio.php:262
+msgid "Edit"
+msgstr "Sunting"
+
+#: ../classes/class-woo-socio.php:507
+msgid "Page Info Updated!"
+msgstr "Info Halaman Diperbarui!"
+
+#: ../classes/class-woo-socio.php:509
+msgid "Unable to update page info! Please try again."
+msgstr "Tidak dapat memperbarui halaman info! Silakan coba lagi."
+
+#: ../woosocio.logins.php:25
+msgid "WooSocio Options"
+msgstr "WooSocio Pilihan"
+
+#: ../woosocio.logins.php:29
+msgid "WooSocio Logins"
+msgstr "WooSocio login"
+
+#: ../woosocio.logins.php:30
+msgid "WooSocio"
+msgstr "WooSocio"
+
+#: ../woosocio.logins.php:32
+msgid ""
+"Connect your site to social networking sites and automatically share new "
+"products with your friends."
+msgstr ""
+"Hubungkan situs Anda ke situs jejaring sosial dan secara otomatis berbagi "
+"produk baru dengan teman-teman Anda."
+
+#: ../woosocio.logins.php:35
+msgid "You can use like/share buttons without connecting or App ID"
+msgstr ""
+"Anda dapat menggunakan tombol share seperti / tanpa menghubungkan atau App ID"
+
+#: ../woosocio.logins.php:39
+msgid "Important Notice:"
+msgstr "Pemberitahuan Penting:"
+
+#: ../woosocio.logins.php:41
+msgid ""
+"You are using Internet Explorer. This plugin may not work properly with IE. "
+"Please use any other browser."
+msgstr ""
+"Anda menggunakan Internet Explorer. Plugin ini mungkin tidak bekerja dengan "
+"baik dengan IE. Silakan gunakan browser lain."
+
+#: ../woosocio.logins.php:42
+msgid "Recommended: Google Chrome."
+msgstr "Rekomendasi: Google Chrome."
+
+#: ../woosocio.logins.php:52
+msgid "Connected as:"
+msgstr "Terhubung sebagai:"
+
+#: ../woosocio.logins.php:54
+msgid "Disconnect"
+msgstr "Memutuskan"
+
+#: ../woosocio.logins.php:63
+msgid "Show App Details"
+msgstr "Tampilkan App Detail"
+
+#: ../woosocio.logins.php:71
+msgid "Your App ID:"
+msgstr "App ID Anda:"
+
+#: ../woosocio.logins.php:73
+msgid "App ID"
+msgstr "App ID"
+
+#: ../woosocio.logins.php:74
+msgid "Don't have an app? You can get from "
+msgstr "Tidak memiliki sebuah aplikasi? Anda bisa mendapatkan dari"
+
+#: ../woosocio.logins.php:79
+msgid "Your App Secret:"
+msgstr "Anda App Secret:"
+
+#: ../woosocio.logins.php:81
+msgid "App Secret"
+msgstr "App Rahasia"
+
+#: ../woosocio.logins.php:82
+msgid "Need more help? "
+msgstr "Perlu bantuan lagi?"
+
+#: ../woosocio.logins.php:83
+msgid "Click here"
+msgstr "Klik di sini"
+
+#: ../woosocio.logins.php:102
+msgid "Post to:"
+msgstr "Kirim ke:"
+
+#: ../woosocio.logins.php:105
+msgid "Personal Page (Wall)"
+msgstr "Pribadi (Wall)"
+
+#: ../woosocio.logins.php:121
+msgid "* WooSocio Pro version *"
+msgstr "* WooSocio Pro versi *"
+
+#: ../woosocio.logins.php:122
+msgid "* Post as page owner rather highlighted post."
+msgstr "* Post sebagai pemilik laman agak disorot pos."
+
+#: ../woosocio.logins.php:123
+msgid "* post to multiple pages at once."
+msgstr "* Posting ke beberapa halaman sekaligus."
+
+#: ../woosocio.logins.php:124
+msgid "* Post products multiple times (Post more than once)"
+msgstr "* Post produk beberapa kali (Pos lebih dari sekali)"
+
+#: ../woosocio.logins.php:125
+msgid "* Bulk posts to pages (multiple posts at once)"
+msgstr "* Posting Massal ke halaman (beberapa posting sekaligus)"
+
+#: ../woosocio.logins.php:126
+msgid "* Bulk edit message"
+msgstr "* Message Massal sunting"
+
+#: ../woosocio.logins.php:127
+msgid "* Bulk like/share button on/off option"
+msgstr "* Massal seperti tombol / share on / off pilihan"
+
+#: ../woosocio.logins.php:128
+msgid "* Rich product page"
+msgstr "* Halaman produk Kaya"
+
+#: ../woosocio.logins.php:129
+msgid "* And many more to come..."
+msgstr "* Dan banyak lagi yang akan datang ..."
+
+#: ../woosocio.logins.php:183
+msgid "Liked WooSocio?"
+msgstr "Menyukai WooSocio?"
+
+#: ../woosocio.logins.php:192
+msgid "Need more help? Please contact: "
+msgstr "Perlu bantuan lagi? Silahkan hubungi:"
