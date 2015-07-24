@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooSocio\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-25 03:54+0500\n"
-"PO-Revision-Date: 2015-07-25 03:56+0500\n"
+"POT-Creation-Date: 2015-07-25 04:11+0500\n"
+"PO-Revision-Date: 2015-07-25 04:12+0500\n"
 "Last-Translator: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
 "Language-Team: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
 "Language: fr\n"
@@ -97,6 +97,10 @@ msgid "Unable to update page info! Please try again."
 msgstr ""
 "Impossible de mettre à jour la page d'info! S'il vous plaît essayez de "
 "nouveau."
+
+#: right_area.php:4
+msgid "WooSocio Pro is here"
+msgstr "WooSocio Pro est ici"
 
 #: right_area.php:52
 msgid "Liked WooSocio?"
@@ -248,20 +252,20 @@ msgstr "* Groupe de partage de fichiers."
 
 #: woosocio.logins.php:163
 msgid "* Seven types of input fields."
-msgstr ""
+msgstr "* Sept types de champs d'entrée."
 
 #: woosocio.logins.php:164
 msgid "* Bulk like/share button on/off option."
-msgstr ""
+msgstr "* En vrac comme/share bouton marche/arrêt option."
 
 #: woosocio.logins.php:165
 msgid "* Front end File Searching and Pagination."
-msgstr ""
+msgstr "* Avant la fin, la recherche de fichiers et Pagination."
 
 #: woosocio.logins.php:166
 msgid "* And many more..."
-msgstr ""
+msgstr "et beaucoup d'autres..."
 
 #: woosocio.logins.php:169
 msgid "Visit our site for details"
-msgstr ""
+msgstr "Visitez notre site pour plus de détails"

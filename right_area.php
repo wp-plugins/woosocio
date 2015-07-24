@@ -1,7 +1,7 @@
     <div class="woosocio-about-us">
     	<!-- Pro version of WooSocio -->
         <div class="box" align="center" style="font-family:'Times New Roman', Times, 'serif'; font-size:18px; background-color:#0F0">
-			<a href="http://genialsouls.com/product/woosocio-pro/" target="_top">WooSocio Pro is here</a>
+			<a href="http://genialsouls.com/product/woosocio-pro/" target="_top"><?php _e( 'WooSocio Pro is here', 'woosocio') ?></a>
 		</div>
     	<!-- Like Box WooSocio on Facebook -->
         <div class="box">

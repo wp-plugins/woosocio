@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooSocio v0.4.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-25 03:51+0500\n"
-"PO-Revision-Date: 2015-07-25 03:54+0500\n"
+"POT-Creation-Date: 2015-07-25 04:13+0500\n"
+"PO-Revision-Date: 2015-07-25 04:13+0500\n"
 "Last-Translator: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
 "Language-Team: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
 "Language: es\n"
@@ -78,8 +78,7 @@ msgstr "Opciones WooSocio"
 
 #: classes/class-woo-socio.php:349
 msgid "Post to facebook everytime on product update?"
-msgstr ""
-"¿Enviar mensajes a facebook cada vez que el producto de actualización?"
+msgstr "¿Enviar mensajes a facebook cada vez que el producto de actualización?"
 
 #: classes/class-woo-socio.php:357
 msgid "Get error notifications by email?"
@@ -98,6 +97,10 @@ msgid "Unable to update page info! Please try again."
 msgstr ""
 "No se puede actualizar las páginas de información! Por favor, inténtelo de "
 "nuevo."
+
+#: right_area.php:4
+msgid "WooSocio Pro is here"
+msgstr "WooSocio Pro es aquí"
 
 #: right_area.php:52
 msgid "Liked WooSocio?"

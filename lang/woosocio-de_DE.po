@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooSocio v0.4.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-25 03:45+0500\n"
-"PO-Revision-Date: 2015-07-25 03:50+0500\n"
+"POT-Creation-Date: 2015-07-25 04:13+0500\n"
+"PO-Revision-Date: 2015-07-25 04:14+0500\n"
 "Last-Translator: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
 "Language-Team: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
 "Language: de_DE\n"
@@ -96,6 +96,10 @@ msgstr "Info-Seite aktualisiert!"
 msgid "Unable to update page info! Please try again."
 msgstr ""
 "Seite kann nicht Informationen aktualisieren! Bitte versuchen Sie es erneut."
+
+#: right_area.php:4
+msgid "WooSocio Pro is here"
+msgstr "WooSocio Pro ist hier"
 
 #: right_area.php:52
 msgid "Liked WooSocio?"
