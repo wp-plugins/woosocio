@@ -140,7 +140,8 @@ if ($fb_user) {
 
     <div class="woosocio-service-entry" style="font-size:18px; color:#03C">
     <?php
-        _e('* WooSocio Pro version *', 'woosocio'); echo "</br></br>";
+        echo '<a href="http://genialsouls.com/product/woosocio-pro/" target="_top">'.__('* WooSocio Pro version *', 'woosocio').'</a>';
+		echo "</br></br>";
 		_e('* Post as page owner rather highlighted post.', 'woosocio'); echo "</br>";
 		_e('* post to multiple pages at once.', 'woosocio'); echo "</br>";
 		_e('* Post products multiple times (Post more than once)', 'woosocio'); echo "</br>";
@@ -165,7 +166,7 @@ if ($fb_user) {
 		_e('* And many more...', 'woosocio'); echo "</br>";
         
 	?>
-    <br><a href="http://genialsouls.com/file-manager/" title="http://genialsouls.com">Visit our site for details</a><br><br>
+    <br><a href="http://genialsouls.com/file-manager/" title="http://genialsouls.com"><?php _e('Visit our site for details', 'woosocio');?></a><br><br>
     </div>
   </div>
     <!-- Right Area Widgets -->  

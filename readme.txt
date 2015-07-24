@@ -83,6 +83,7 @@ No. You can use like/share buttons without connecting to facebook. But it is rec
 = 0.7.2 - 25/07/2015 =
 
 * added: View permissions granted to your facebook App.
+* update: Translation updated.
 
 = 0.7.1 - 18/05/2015 =
 
