@@ -78,6 +78,8 @@ No. You can use like/share buttons without connecting to facebook. But it is rec
 
 5. screenshot-5.jpg
 
+6. screenshot-6.jpg
+
 == Changelog ==
 
 = 0.7.2 - 25/07/2015 =
