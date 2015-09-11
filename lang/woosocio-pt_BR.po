@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooSocio v0.8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-09 13:40+0500\n"
+"PO-Revision-Date: 2015-09-09 13:40+0500\n"
+"Last-Translator: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
+"Language-Team: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html_e\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: .\n"
+
+#: classes/class-woo-socio.php:145
+msgid "Name"
+msgstr "Nome"
+
+#: classes/class-woo-socio.php:146
+msgid "Like/ Share Button?"
+msgstr "Como / Share Button?"
+
+#: classes/class-woo-socio.php:147
+msgid "Posted to Facebook?"
+msgstr "Postado no Facebook?"
+
+#: classes/class-woo-socio.php:148
+msgid "Custom Message"
+msgstr "Mensagem personalizada"
+
+#: classes/class-woo-socio.php:237
+msgid "WooSocio:"
+msgstr "WooSocio:"
+
+#: classes/class-woo-socio.php:246
+msgid "Not Connected"
+msgstr "Não Conectado"
+
+#: classes/class-woo-socio.php:247 woosocio.logins.php:58
+msgid "Connect"
+msgstr "Conectar"
+
+#: classes/class-woo-socio.php:252
+msgid "Show Like/Share buttons?"
+msgstr "Show como / share botões?"
+
+#: classes/class-woo-socio.php:254
+msgid "Post to Facebook?"
+msgstr "Publicar no Facebook?"
+
+#: classes/class-woo-socio.php:255
+msgid "Custom Message: (No html tags)"
+msgstr "Mensagem personalizada: (Sem tags HTML)"
+
+#: classes/class-woo-socio.php:257 woosocio.logins.php:90
+msgid "Save"
+msgstr "Salvar"
+
+#: classes/class-woo-socio.php:258
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: classes/class-woo-socio.php:261
+msgid "Edit"
+msgstr "Editar"
+
+#: classes/class-woo-socio.php:342 woosocio.logins.php:26
+msgid "WooSocio Options"
+msgstr "Opções WooSocio"
+
+#: classes/class-woo-socio.php:349
+msgid "Post to facebook everytime on product update?"
+msgstr "Postar no facebook toda vez que na atualização de produto?"
+
+#: classes/class-woo-socio.php:357
+msgid "Get error notifications by email?"
+msgstr "Receber notificações de erro por e-mail?"
+
+#: classes/class-woo-socio.php:409
+msgid "This section description"
+msgstr "Esta descrição de seção"
+
+#: classes/class-woo-socio.php:604
+msgid "Page Info Updated!"
+msgstr "Informações da página Atualizado!"
+
+#: classes/class-woo-socio.php:606
+msgid "Unable to update page info! Please try again."
+msgstr "Não é possível atualizar informações page! Por favor, tente novamente."
+
+#: right_area.php:4
+msgid "WooSocio Pro is here"
+msgstr "WooSocio Pro é aqui"
+
+#: right_area.php:52
+msgid "Liked WooSocio?"
+msgstr "Gostei WooSocio?"
+
+#: right_area.php:61
+msgid "Need more help? Please contact: "
+msgstr "Precisa de mais ajuda? Entre em contato:"
+
+#: woosocio.logins.php:30
+msgid "WooSocio Logins"
+msgstr "WooSocio Logins"
+
+#: woosocio.logins.php:31
+msgid "WooSocio"
+msgstr "WooSocio"
+
+#: woosocio.logins.php:33
+msgid ""
+"Connect your site to social networking sites and automatically share new "
+"products with your friends."
+msgstr ""
+"Ligue o seu site para sites de redes sociais e automaticamente compartilhar "
+"novos produtos com seus amigos."
+
+#: woosocio.logins.php:36
+msgid "You can use like/share buttons without connecting or App ID"
+msgstr "Você pode usar como / botões de compartilhamento sem ligar ou App ID"
+
+#: woosocio.logins.php:40
+msgid "Important Notice:"
+msgstr "Aviso Importante:"
+
+#: woosocio.logins.php:42
+msgid ""
+"You are using Internet Explorer. This plugin may not work properly with IE. "
+"Please use any other browser."
+msgstr ""
+"Você está usando o Internet Explorer. Este plugin pode não funcionar "
+"corretamente com o IE. Por favor, use qualquer outro browser."
+
+#: woosocio.logins.php:43
+msgid "Recommended: Google Chrome."
+msgstr "Recomendado: Google Chrome."
+
+#: woosocio.logins.php:53
+msgid "Connected as:"
+msgstr "Conectado como:"
+
+#: woosocio.logins.php:55
+msgid "Disconnect"
+msgstr "Disconnect"
+
+#: woosocio.logins.php:64
+msgid "Show App Details"
+msgstr "Mostrar App Detalhes"
+
+#: woosocio.logins.php:72
+msgid "Your App ID:"
+msgstr "Seu App ID:"
+
+#: woosocio.logins.php:74
+msgid "App ID"
+msgstr "App ID"
+
+#: woosocio.logins.php:75
+msgid "Don't have an app? You can get from "
+msgstr "Não tenho um aplicativo? Você pode obter a partir de "
+
+#: woosocio.logins.php:80
+msgid "Your App Secret:"
+msgstr "Seu App Segredo:"
+
+#: woosocio.logins.php:82
+msgid "App Secret"
+msgstr "App Segredo"
+
+#: woosocio.logins.php:83
+msgid "Need more help? "
+msgstr "Precisa de mais ajuda?"
+
+#: woosocio.logins.php:84
+msgid "Click here"
+msgstr "Clique aqui"
+
+#: woosocio.logins.php:104
+msgid "Post to:"
+msgstr "Publicar em:"
+
+#: woosocio.logins.php:105
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: woosocio.logins.php:108
+msgid "Personal Page (Wall)"
+msgstr "Página Pessoal (Wall)"
+
+#: woosocio.logins.php:118
+msgid "Groups:"
+msgstr "Grupos:"
+
+#: woosocio.logins.php:140
+msgid "App Permissions:"
+msgstr "Permissões de App:"
+
+#: woosocio.logins.php:157
+msgid "* WooSocio Pro version *"
+msgstr "* WooSocio versão Pro *"
+
+#: woosocio.logins.php:159
+msgid "* Post as page owner rather highlighted post."
+msgstr "* Post como proprietário da página, em vez destacou post."
+
+#: woosocio.logins.php:160
+msgid "* post to multiple pages at once."
+msgstr "* Postar em várias páginas ao mesmo tempo."
+
+#: woosocio.logins.php:161
+msgid "* Post products multiple times (Post more than once)"
+msgstr "* Os seus produtos várias vezes (Mensagem mais de uma vez)"
+
+#: woosocio.logins.php:162
+msgid "* Bulk posts to pages (multiple posts at once)"
+msgstr "* Mensagens em massa para páginas (várias mensagens de uma só vez)"
+
+#: woosocio.logins.php:163
+msgid "* Bulk edit message"
+msgstr "* Mensagem Edição em massa"
+
+#: woosocio.logins.php:164
+msgid "* Bulk like/share button on/off option"
+msgstr "* Massa botão Like / share na opção / off"
+
+#: woosocio.logins.php:165
+msgid "* Rich product page"
+msgstr "* Página Rico produto"
+
+#: woosocio.logins.php:166
+msgid "* And many more to come..."
+msgstr "* E muitos mais para vir ..."
+
+#: woosocio.logins.php:172
+msgid "* You may also like *"
+msgstr "* você pode gostar *"
+
+#: woosocio.logins.php:174
+msgid "* BuddyPress Group File Share."
+msgstr "* BuddyPress grupo compartilhamento de arquivos."
+
+#: woosocio.logins.php:175
+msgid "* Create Download Area."
+msgstr "* Crie a área de Download."
+
+#: woosocio.logins.php:176
+msgid "* Group file sharing."
+msgstr "* Grupo de compartilhamento de arquivos."
+
+#: woosocio.logins.php:177
+msgid "* Seven types of input fields."
+msgstr "* Sete tipos de campos de entrada."
+
+#: woosocio.logins.php:178
+msgid "* Bulk like/share button on/off option."
+msgstr "* Em massa como/partilhar o botão ligar/desligar a opção."
+
+#: woosocio.logins.php:179
+msgid "* Front end File Searching and Pagination."
+msgstr "* Front end arquivo pesquisando e paginação."
+
+#: woosocio.logins.php:180
+msgid "* And many more..."
+msgstr "* E muitos mais..."
+
+#: woosocio.logins.php:183
+msgid "Visit our site for details"
+msgstr "Visite nosso site para obter detalhes"
